@@ -2,3 +2,4 @@
 2. chat sceen
 3. last seen
 4. attachement
+4 . Hidding last seen
